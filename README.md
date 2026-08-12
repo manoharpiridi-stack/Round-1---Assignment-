@@ -121,7 +121,4 @@ see the diagram at the top of `agent.py` for the full picture.
 - **Swap Postgres for MySQL:** change `DATABASE_URL` in `.env` and swap
   `psycopg2-binary` for `pymysql` in `requirements.txt`.
 
-See the accompanying **AIVOA_Interview_Study_Guide.pdf** for a full
-walkthrough of every concept used here (React/Redux, FastAPI, LangGraph,
-LLM prompting, and the pharma QMS domain background) — that's what the
-interview will draw on.
+
